@@ -1,5 +1,10 @@
-$body-color: blue;
+$body-color: black;
 
 body {
   color: $body-color;
+}
+
+.completed {
+  color: green;
+  text-decoration: line-through;
 }
